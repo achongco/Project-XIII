@@ -24,6 +24,6 @@ CONTROLS:
   
   C: Dash/Teleport
   
-  Space: Jump
+  SPACE BAR: Jump
   
   P: Pause
